@@ -1,0 +1,10 @@
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\bin\Debug\AdvancedProgrammingLab1.exe.config
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\bin\Debug\AdvancedProgrammingLab1.exe
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\bin\Debug\AdvancedProgrammingLab1.pdb
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\obj\Debug\AdvancedProgrammingLab1.csprojAssemblyReference.cache
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\obj\Debug\AdvancedProgrammingLab1.Form1.resources
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\obj\Debug\AdvancedProgrammingLab1.Properties.Resources.resources
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\obj\Debug\AdvancedProgrammingLab1.csproj.GenerateResource.cache
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\obj\Debug\AdvancedProgrammingLab1.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\obj\Debug\AdvancedProgrammingLab1.exe
+C:\Users\David\Documents\Github\AdvancedProgrammingY4_2022\AdvancedProgrammingLab1\obj\Debug\AdvancedProgrammingLab1.pdb
