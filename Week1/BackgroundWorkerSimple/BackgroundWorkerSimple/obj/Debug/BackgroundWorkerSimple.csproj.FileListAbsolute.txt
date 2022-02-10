@@ -1,0 +1,10 @@
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\bin\Debug\BackgroundWorkerSimple.exe.config
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\bin\Debug\BackgroundWorkerSimple.exe
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\bin\Debug\BackgroundWorkerSimple.pdb
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\obj\Debug\BackgroundWorkerSimple.csproj.AssemblyReference.cache
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\obj\Debug\BackgroundWorkerSimple.Form1.resources
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\obj\Debug\BackgroundWorkerSimple.Properties.Resources.resources
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\obj\Debug\BackgroundWorkerSimple.csproj.GenerateResource.cache
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\obj\Debug\BackgroundWorkerSimple.csproj.CoreCompileInputs.cache
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\obj\Debug\BackgroundWorkerSimple.exe
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Week1\BackgroundWorkerSimple\BackgroundWorkerSimple\obj\Debug\BackgroundWorkerSimple.pdb
