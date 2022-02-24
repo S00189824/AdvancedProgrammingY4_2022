@@ -1,0 +1,16 @@
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\bin\Debug\net5.0\Lab5.exe
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\bin\Debug\net5.0\Lab5.deps.json
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\bin\Debug\net5.0\Lab5.runtimeconfig.json
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\bin\Debug\net5.0\Lab5.runtimeconfig.dev.json
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\bin\Debug\net5.0\Lab5.dll
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\bin\Debug\net5.0\ref\Lab5.dll
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\bin\Debug\net5.0\Lab5.pdb
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.csproj.AssemblyReference.cache
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.AssemblyInfo.cs
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.dll
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\ref\Lab5.dll
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.pdb
+C:\Users\s00189824\Documents\GitHub\AdvancedProgrammingY4_2022\Labs\BackgroundWorkerSimple\Lab5\obj\Debug\net5.0\Lab5.genruntimeconfig.cache
